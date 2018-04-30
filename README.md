@@ -1,3 +1,5 @@
+Sorry I have no idea how to do this right. Pictures are seperately uploaded.
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
